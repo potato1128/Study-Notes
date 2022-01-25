@@ -1,2 +1,2 @@
 # potato1128.github.io
-first test
+potato1128的学习笔记
